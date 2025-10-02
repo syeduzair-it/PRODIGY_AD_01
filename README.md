@@ -18,10 +18,10 @@ A modern calculator app built in Android Studio using Java, with a clean Materia
 - Material Design components
 
 ### 📷 Screenshots
-![Screenshot 1](screenshots/screen1.png)
-![Screenshot 2](screenshots/screen2.png)
-![Screenshot 3](screenshots/screen3.png)
-![Screenshot 4](screenshots/screen4.png)
+![Screenshot 1](screenshots/screen1.jpg)
+![Screenshot 2](screenshots/screen2.jpg)
+![Screenshot 3](screenshots/screen3.jpg)
+![Screenshot 4](screenshots/screen4.jpg)
 
 
 ---
