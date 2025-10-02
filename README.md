@@ -1,8 +1,8 @@
-# PRODIgy_AD_01 - UzCalculator
+# PRODIGY_AD_01 - UzCalc
 
 This is my Task 01 project for the **PRODIGY InfoTech Android Development Internship**.
 
-## 📱 Project: UzCalculator
+## 📱 Project: UzCalc
 A modern calculator app built in Android Studio using Java, with a clean Material Design UI.
 
 ### ✨ Features
